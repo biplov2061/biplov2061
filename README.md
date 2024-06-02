@@ -7,8 +7,11 @@
 
 
 LANGUAGES:
-1. <img src="https://www.kaashivinfotech.com/blog/wp-content/uploads/2023/09/HD-wallpaper-language-c-chedesign-programming-thumbnail.jpg" height="20" width="25" alt="C">
-2. <img src="https://preview.redd.it/31b2ii8hchi31.jpg?auto=webp&s=309fe75e96212cf42c4120ca5adedaef52c41e01" height="20" width="25" alt="C++">
+1.  <img src="https://preview.redd.it/31b2ii8hchi31.jpg?auto=webp&s=309fe75e96212cf42c4120ca5adedaef52c41e01" height="40" width="40" alt="C++">
+2.  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="37" width="40" alt="C++">
+3.   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW7WocuRHnuCpdzpfUx5LD6rIVDb-pjvbw1M99NqVuZCVbcmxyEsdGYPaxfIUduWYY3Oc&usqp=CAU" height="37" width="40" alt="C++">
+4.   <img src="https://miro.medium.com/v2/resize:fit:300/1*Aenej4dxqEZ9j7zsI9pSnw.png" height="37" width="38" alt="C++">
+
 <!---
 biplov2061/biplov2061 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

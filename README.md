@@ -3,6 +3,9 @@
 - 🌱 I’m currently and Frontend development
 - 📫 How to reach me:
 - Email: gautambiplov123@gmail.com / dnepal04@gmail.com
+- Social media:
+-  Insta :https://www.instagram.com/im___suresh___/
+-  Linked In :https://www.linkedin.com/in/gautam-suresh-a873
 - ⚡ Fun fact: Obsessed in coding after 12th❤️
 
 

@@ -2,7 +2,7 @@
 - 👀 I’m interested in WEB DEVELOPMENT
 - 🌱 I’m currently and Frontend development
 - 📫 How to reach me:
-- Email:gautambiplov123@gmail.com
+- Email: gautambiplov123@gmail.com / dnepal04@gmail.com
 - ⚡ Fun fact: Obsessed in coding after 12th❤️
 
 

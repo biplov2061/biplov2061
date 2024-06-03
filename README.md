@@ -1,6 +1,6 @@
 - 👋 Hi, I’m BIPLOV GAUTAM
 - 👀 I’m interested in WEB DEVELOPMENT
-- 🌱 I’m currently and Frontend development
+- 🌱 I’m currently doing Frontend development
 - 📫 How to reach me:
 - Email: gautambiplov123@gmail.com / dnepal04@gmail.com
 - Social media:

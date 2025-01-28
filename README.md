@@ -14,6 +14,7 @@ LANGUAGES:
   <a href="https://www.javascript.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="37" width="40" alt="javascript"></a>
    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW7WocuRHnuCpdzpfUx5LD6rIVDb-pjvbw1M99NqVuZCVbcmxyEsdGYPaxfIUduWYY3Oc&usqp=CAU" height="37" width="40" alt="C++"> <img src="https://miro.medium.com/v2/resize:fit:300/1*Aenej4dxqEZ9j7zsI9pSnw.png" height="37" width="38" alt="C++">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VB.NET_Logo.svg/1200px-VB.NET_Logo.svg.png" height="37" width="40" alt="Vblogo">
+   <img src="C:\Users\dnepa\Downloads\java.svg" alt="java logo">
     
 
 <!---

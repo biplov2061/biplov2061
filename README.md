@@ -14,8 +14,7 @@ LANGUAGES:
   <a href="https://www.javascript.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="37" width="40" alt="javascript"></a>
    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW7WocuRHnuCpdzpfUx5LD6rIVDb-pjvbw1M99NqVuZCVbcmxyEsdGYPaxfIUduWYY3Oc&usqp=CAU" height="37" width="40" alt="C++"> <img src="https://miro.medium.com/v2/resize:fit:300/1*Aenej4dxqEZ9j7zsI9pSnw.png" height="37" width="38" alt="C++">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VB.NET_Logo.svg/1200px-VB.NET_Logo.svg.png" height="37" width="40" alt="Vblogo">
-     <a href="https://www.java.com/"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffreebiesupply.com%2Flogos%2Fjava-logo-2%2F&psig=AOvVaw29gtQSMNBI_UhRVkZW1STy&ust=1738152897410000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCD-6WymIsDFQAAAAAdAAAAABAE" height="37" width="40" alt="java logo"></a>
-      <a href="https://www.react.com/"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AReact-icon.svg&psig=AOvVaw3MGmFPPDPfZ69kRPYNzNc5&ust=1738152699134000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCXvsixmIsDFQAAAAAdAAAAABAE" height="37" width="40" alt="javascript"></a>
+    
 
 <!---
 biplov2061/biplov2061 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m BIPLOV GAUTAM
-- 👀 I’m interested in data science
+- 👀 I’m interested in data science and AI/ML
 - 🌱 I’m currently doing web development
 - 📫 How to reach me:
 - Email: gautambiplov123@gmail.com / dnepal04@gmail.com
